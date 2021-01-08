@@ -1,3 +1,3 @@
-# Welcome to my HappyPlace
+# HappyPlace
 
 <img src="3x.gif" alt=":)" />
