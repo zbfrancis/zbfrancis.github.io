@@ -32,7 +32,7 @@ because it's your HappyPlace.
 Currently, [this](HappyPlace.md) is my HappyPlace.
 
 There's this guy I know of who has a personal website like this one.
-His is way cooler. Hopefully one day mine looks like [this](bod.ge).
+His is way cooler. Hopefully one day mine looks like [this](https://bod.ge).
 
 ## Bucket List
 Speaking of one day, one day I want to do this stuff.
