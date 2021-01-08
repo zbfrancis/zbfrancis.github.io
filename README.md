@@ -50,6 +50,6 @@ In order to finish those things I have to do the following:
 - [ ] Save up enough money
 - [ ] Find time
 
-This list was supposed to be empty, but luckily I'm ahead of the game.
+This list was supposed to be empty, but I guess I'm ahead of the game.
 I don't why am I still here
 Hope this was funny :P
